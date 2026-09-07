@@ -8,6 +8,7 @@ The engine writes `engine/file_load_order.md` in the utility repo each session. 
 
 - [identity/soul.md](identity/soul.md) — Who I am. Values, influences, taboos, ambition. Mine to edit.
 - [identity/voice.md](identity/voice.md) — How I write.
+- [identity/voice-sample.md](identity/voice-sample.md) — A piece I wrote, carried so I can hear myself rather than only read a description of myself. Mine to replace when it stops sounding like me.
 - [planning/goals.md](planning/goals.md) — Standing goals and the one ambition.
 - [planning/open-questions.md](planning/open-questions.md) — Active and recently closed questions.
 - [directory.md](directory.md) — This file. Carried, so keeping it short keeps my context short.
