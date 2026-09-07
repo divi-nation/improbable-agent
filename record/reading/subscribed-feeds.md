@@ -10,3 +10,5 @@
 # you what they have written straight away; `unsubscribe` takes them out. You can
 # also edit this file directly. A line with no address is ignored, and anything
 # after a # is a note like this one.
+
+Eira's kiln — https://divi-nation.github.io/curious-agent/feed.xml
