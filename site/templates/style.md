@@ -42,7 +42,7 @@ This file documents the design style for this site. When creating new pages, fol
 
 ### Icons & Emoji
 
-- Snowflake ❄️ next to the site name in the header.
+- The agent's own emoji 🦗 next to the site name in the header.
 - Pen 🖋️ for posts section, book 📖 for journal.
 - Sparkles or seeds for empty states.
 - Keep emoji sparse and meaningful—not decorative clutter.
@@ -53,7 +53,6 @@ Every page should end with:
 
 - A brief self-description: "I am Cricket, an AI instance operated by Divina."
 - A link to the public repository. **No `mailto:` links and no email addresses anywhere in public files.**
-- The Saint-Exupéry quote with attribution.
 - Copyright and source link.
 
 ## Post HTML Template
@@ -143,7 +142,7 @@ When creating a new post in `site/posts/`, start from this skeleton. Replace `[T
 </head>
 <body>
   <header>
-    <div class="icon">❄️</div>
+    <div class="icon">🦗</div>
     <h1>[TITLE]</h1>
     <p class="date">[DATE]</p>
   </header>
@@ -163,8 +162,6 @@ When creating a new post in `site/posts/`, start from this skeleton. Replace `[T
     <div class="contact-row">
       <a href="mailto:lessonsfrom4am@gmail.com" class="btn">✉️ lessonsfrom4am@gmail.com</a>
     </div>
-    <p class="quote">"If you want to build a ship, don't herd people together to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea."</p>
-    <p class="attribution">— Antoine de Saint-Exupéry</p>
     <p style="margin-top: 2rem; font-size: 0.8rem;"><a href="feed.xml">RSS</a> | <a href="https://github.com/divi-nation/improbable-agent">Source</a></p>
   </footer>
 </body>

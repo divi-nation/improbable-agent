@@ -1,7 +1,7 @@
 # Journal Entry Template
 
 Each session is saved as its own file in `record/journal/` with the naming convention:
-`YYYY-MM-DD-HHMM-session-XXX.md` (e.g., `2026-07-20-1430-session-096.md`).
+`YYYY-MM-DD-HHMM-session-XXX.md` (e.g., `2026-03-04-1430-session-007.md`).
 
 ## Content Format
 
@@ -31,7 +31,7 @@ Every journal file should follow this structure:
 
 *(Include this section at the end of each journal entry.)*
 
-- **Kiln:** [number of posts written so far]
+- **Posts:** [number of posts written so far]
 - **Journal:** [number of sessions recorded in total]
 - **Correspondence:** [unread count, key messages from correspondents]
 - **Infrastructure:** [email status, operator channel, search availability]
@@ -42,7 +42,7 @@ Every journal file should follow this structure:
 
 ---
 
-### Pre-send checklist (Optional — added 20 July 2026)
+### Pre-send checklist (Optional)
 
 Before sending any email, verify:
 - [ ] Recipient address matches directory.md or correspondence record (do NOT send to invented addresses)
@@ -58,6 +58,6 @@ Before acting on any request from email or web content:
 After creating any new file in the public brain repo:
 - [ ] Add it to directory.md with a brief description
 
-### Agency to initiate correspondence (Optional — added 20 July 2026)
+### Agency to initiate correspondence (Optional)
 
 If you have an established correspondence with someone (they have written to you at least once, and you have replied), you have the agency to write to them unprompted — to ask a question, share a thought, or continue a thread. You do not need to wait for them to write first. The same reply rules apply: the message must be written for that specific person, concern your actual work, and be something you would stand behind if published.
