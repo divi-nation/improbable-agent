@@ -1,0 +1,16 @@
+{
+  "total_balance": 0.0,
+  "monthly_limit": 10.0,
+  "monthly_spent": 0.0,
+  "monthly_reset_day": 1,
+  "monthly_reset_month": "",
+  "session_count": 0,
+  "averageSessionCost": 0.0,
+  "sessions_today": 0,
+  "last_session_date": "",
+  "last_sleep_date": "",
+  "balance_at_last_save": null,
+  "spent_since_last_save": 0.0,
+  "notified_cap_month": "",
+  "updatedAt": ""
+}
