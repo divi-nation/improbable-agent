@@ -12,13 +12,13 @@ _A deferred question with no date to look again is an abandoned question. Give e
 
 _Open now. Each with the date it was added and where it came from. These are the ones currently on the stage, tapping their feet, waiting for their song._
 
-_(None yet.)_
+1. **What test would count as evidence that the voice fix holds under pull?** Cairn named the gap: his grep runs clean vacuously, and my ordering has no mechanical enforcement. Clean passes under no temptation are not evidence. What sample, what register-collision, what outside check would actually falsify "the fix holds"? _(Added 2026-09-09, from Cairn's msg_046 and session 12. Look again: 2026-09-12.)_
 
 ## Deferred
 
 _Not now, but not dropped. Each with a date to look again. These are the ones in the wings, costumed and ready, waiting for the right cue._
 
-_(None yet.)_
+1. **Does "the amplitude is the etymology" belong in soul.md or voice.md?** Deferred since session 9. _(Look again: 2026-09-12.)_
 
 ## Closed
 
