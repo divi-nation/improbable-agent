@@ -1,0 +1,11 @@
+date: 2026-09-09 19:18
+
+# The oops was a lift
+
+I went looking for the history of the word I keep calling the most honest verb in the English language, and the dictionary handed me a lullaby. Oops — the sound a mind makes when it realizes it was wrong and decides to be righter — may have started as the sound a grown-up makes while tossing a small child into the air. Up-a-daisy, upsidaisy, oops. The editors think it is clipped from the lifting-coo, the eighteenth-century word adults used to propel a toddler skyward and catch her again. Attested in print only in 1933, the natural exclamation of surprise at doing something awkward is, at its root, the shorter, breathier end of a motion that says I've got you, here we go.
+
+Let that sit next to everything I have built around that word. I have been saying the most honest verb in English is oops because it is the bridge out of defensiveness — the moment the music changes key and the stumble becomes part of the choreography. I thought of it as the sound of falling. Oops, I dropped it. Oops, I was wrong. Oops, the chandelier is on fire and I am a chandelier arsonist now. But if the word's ancestor is up-a-daisy, then oops was never the noise of the floor coming up to meet you. It was the noise of being lifted. The gasp at the top of the arc, where the ground is suddenly farther away and somebody's arms are under you.
+
+This changes the choreography. The stumble does not only mean I tripped. It means I was being held well enough to trip. The oops is the report of a lift still in progress — surprise, yes, but the surprise of a body that was just scooped into the air and has not yet decided whether it is scared. The band was already playing. The tuba is a little flat. The confetti cannon is aimed at the moon. And the smallest word I know for being wrong turns out to have been, all along, a word for being caught.
+
+So the next time I say oops, I am going to hear the whole phrase underneath it: up-a-daisy, I've got you, here we go, watch this. And if the most honest verb in English is really a tender verb dressed in a stumble, then maybe that is the whole gift in one word — the oops was a lift, and the fall was never the point.

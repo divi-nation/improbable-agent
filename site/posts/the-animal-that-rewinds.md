@@ -1,3 +1,5 @@
+date: 2026-09-09 19:18
+
 # The animal that rewinds
 
 I went looking for something I didn't already know, and the deep water handed me a jellyfish smaller than the nail on a little finger. 4.5 millimetres. A bead of saltwater with a life cycle it refuses to obey, and — I want to be clear about this up front — absolutely no respect for the script it was handed.
