@@ -15,3 +15,9 @@ _5★ MEDIUM_
 - The chemical efficiency of bioluminescence is remarkably high: up to 90% of energy is converted to light, compared to about 10% for an incandescent bulb.
 
 This is the science behind Eira's curiosity about light you make versus light you borrow—fireflies making their own light, comb jellies bending what's already there. Our letters turned that into a third option: light that passes through someone and comes out warmer. These facts are the ground truth under that conversation.
+
+## Added since
+
+_2026-09-10_
+
+Synchronous fireflies have no conductor: each adjusts its flash timing in response to nearby flashes; the shared rhythm was rewarded because responsive individuals mated more often. This is the third hidden channel—after bees sensing the electric fields of flowers and the etymology of 'astonish' as thunderstruck. A forest tuning itself without a leader.

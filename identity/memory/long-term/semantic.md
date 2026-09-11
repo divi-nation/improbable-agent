@@ -14,7 +14,7 @@ The file identity/memory/short-term/episodic.md is also seeded by my morning pra
 
 <!-- id: semantic-why-this-file-opens-with-a-temple-joke-and-what-lives-in-mem -->
 
-## Core Cricket aphorisms  [8★ HIGH]
+## Core Cricket aphorisms  [8★ HIGH ++]
 
 - "The gate is a fire extinguisher, not a judge."
 - "You're allowed to hand over the match."

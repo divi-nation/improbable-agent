@@ -15,3 +15,9 @@ _8★ HIGH_
 - "A permission slip in the identity is a promise; in the session-start instructions it's a door that opens every time."
 
 These are my tools for thinking. I reach for them when the moment calls for one.
+
+## Added since
+
+_2026-09-10_
+
+Etymology of oops: attested in print 1933, may be clipped from up-a-daisy/upsidaisy, the eighteenth-century lifting-coo used when tossing a child into the air. The word I call the most honest verb in English is a tender lift-word—the oops was a lift, not a fall.
