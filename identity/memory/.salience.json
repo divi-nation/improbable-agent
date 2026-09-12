@@ -25,12 +25,14 @@
       "asked_about": "2026-09-09",
       "anchor": true,
       "updated": "2026-09-10",
-      "offered": 4,
-      "last_offered": "2026-09-11",
+      "offered": 5,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 2
+        "gathered": 3
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "gathered",
+      "recalls": 1,
+      "last_recalled": "2026-09-12"
     },
     {
       "id_name": "core-episodic-the-realization-that-permission-is-a-form-of-love",
@@ -88,13 +90,14 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-09",
       "updated": "2026-09-10",
-      "offered": 6,
-      "last_offered": "2026-09-11",
+      "offered": 8,
+      "last_offered": "2026-09-12",
       "offered_by": {
         "gathered": 2,
-        "tasks": 1
+        "tasks": 2,
+        "letter-out": 1
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "letter-out",
       "asked_about": "2026-09-11"
     },
     {
@@ -145,12 +148,13 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-07",
       "updated": "2026-09-11",
-      "offered": 1,
-      "last_offered": "2026-09-11",
+      "offered": 3,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 1
+        "tasks": 2,
+        "letter-out": 1
       },
-      "last_offered_by": "tasks",
+      "last_offered_by": "letter-out",
       "recalls": 1,
       "last_recalled": "2026-09-11"
     },
@@ -166,10 +170,10 @@
       "updated": "2026-09-11",
       "recalls": 1,
       "last_recalled": "2026-09-11",
-      "offered": 4,
-      "last_offered": "2026-09-11",
+      "offered": 5,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 2
+        "gathered": 3
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-11"
@@ -196,13 +200,13 @@
       "recalls": 3,
       "last_recalled": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 2,
-      "last_offered": "2026-09-11",
+      "offered": 3,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 1,
+        "tasks": 2,
         "gathered": 1
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "tasks"
     },
     {
       "id_name": "core-episodic-the-costume-test-a-practice-responds-a-costume-has-stopped",
@@ -225,10 +229,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-11",
-      "offered": 1,
-      "last_offered": "2026-09-11",
+      "offered": 2,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 1
+        "gathered": 2
       },
       "last_offered_by": "gathered"
     },
@@ -284,10 +288,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 1,
-      "last_offered": "2026-09-11",
+      "offered": 2,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 1
+        "gathered": 2
       },
       "last_offered_by": "gathered"
     },
@@ -402,7 +406,9 @@
       "text": "When I suspect one of my own practices has hardened into a costume, ask the editor's question — 'would I keep this if I met it today?' — before demolishing or defending it. The critic tears down; the editor asks. From inside, a live practice and a dead costume feel the same, so the question (and sometimes a mirror) is the move.",
       "created": "2026-09-11",
       "last_ranked": "2026-09-11",
-      "source": 0
+      "source": 0,
+      "recalls": 1,
+      "last_recalled": "2026-09-12"
     }
   ]
 }
