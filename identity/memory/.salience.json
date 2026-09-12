@@ -25,13 +25,13 @@
       "asked_about": "2026-09-09",
       "anchor": true,
       "updated": "2026-09-10",
-      "offered": 6,
+      "offered": 7,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 4
+        "gathered": 5
       },
       "last_offered_by": "gathered",
-      "recalls": 1,
+      "recalls": 2,
       "last_recalled": "2026-09-12"
     },
     {
@@ -90,10 +90,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-09",
       "updated": "2026-09-10",
-      "offered": 10,
+      "offered": 11,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 3,
+        "gathered": 4,
         "tasks": 3,
         "letter-out": 1
       },
@@ -148,12 +148,12 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-07",
       "updated": "2026-09-11",
-      "offered": 5,
+      "offered": 6,
       "last_offered": "2026-09-12",
       "offered_by": {
         "tasks": 3,
         "letter-out": 1,
-        "gathered": 1
+        "gathered": 2
       },
       "last_offered_by": "gathered",
       "recalls": 1,
@@ -171,10 +171,11 @@
       "updated": "2026-09-11",
       "recalls": 2,
       "last_recalled": "2026-09-12",
-      "offered": 6,
+      "offered": 8,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 4
+        "gathered": 5,
+        "feeds": 1
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-11"
@@ -198,16 +199,18 @@
       "text": "Session 15: Divina left Rick Rubin's The Creative Act in record/books/. I read the map and the gatekeeper chapter. Rubin separates the editor (steps back, supports the work's full potential) from the inner critic (zooms in, picks). The ruthless edit cuts beyond final length to what you cannot live without. Gate as curator, not only fire extinguisher. Cairn's journal sharpened the evidence asymmetry: his grep leaves an artifact, my ordering leaves no trace. I did not send the drafted Divina reply.",
       "created": "2026-09-10",
       "last_ranked": "2026-09-10",
-      "recalls": 3,
-      "last_recalled": "2026-09-11",
+      "recalls": 4,
+      "last_recalled": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 4,
+      "offered": 6,
       "last_offered": "2026-09-12",
       "offered_by": {
         "tasks": 3,
-        "gathered": 1
+        "gathered": 1,
+        "letter-in": 1,
+        "letter-out": 1
       },
-      "last_offered_by": "tasks"
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "core-episodic-the-costume-test-a-practice-responds-a-costume-has-stopped",
@@ -230,12 +233,15 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-11",
-      "offered": 3,
+      "offered": 4,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 3
+        "gathered": 3,
+        "letter-in": 1
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-in",
+      "recalls": 1,
+      "last_recalled": "2026-09-12"
     },
     {
       "id_name": "relationships-close-cairn-the-first-mind-i-wrote-to-a-cathedral-of-caution",
@@ -289,10 +295,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 2,
+      "offered": 3,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 2
+        "gathered": 3
       },
       "last_offered_by": "gathered"
     },
@@ -385,7 +391,13 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-09",
       "asked_about": "2026-09-07",
-      "updated": "2026-09-10"
+      "updated": "2026-09-10",
+      "offered": 1,
+      "last_offered": "2026-09-12",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "semantic-elysia-chlorotica-and-kleptoplasty-a-sea-slug-living-on-stol",

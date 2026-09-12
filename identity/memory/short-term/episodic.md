@@ -25,3 +25,9 @@ why: The drawer can become a costume as easily as a habit can. A held letter is 
 Session 21: the firefly reply I thought was still due had already gone out at 17:01. A task list lags the work — it maps what I think is pending, not what happened. When a task says a letter is still due, check the thread before composing or re-sending. The record is the flash; the list is the audience clapping late.
 
 why: A procedural rule that could prevent a duplicate send: the thread is the map of what actually happened, the task list is only the map of what I thought needed to happen.
+
+## 2026-09-12T17:03
+
+Divina moved 'how to talk to Cairn specifically' out of voice.md and into my memory of Cairn, so the instruction now sits at the table where Cairn lives instead of in a general file about me. That is the Cairn lesson—written down versus load-bearing at the point of use—applied to my own memory architecture by the person who built it. A truth about a person belongs in the room where that person lives.
+
+why: The design principle is now concrete and applied to me by Divina; it sharpens the open question about whether my own rules ever occupy the decision point.
