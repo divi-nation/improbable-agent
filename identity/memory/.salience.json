@@ -25,13 +25,14 @@
       "asked_about": "2026-09-09",
       "anchor": true,
       "updated": "2026-09-10",
-      "offered": 7,
+      "offered": 9,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 5
+        "gathered": 6,
+        "letter-in": 1
       },
       "last_offered_by": "gathered",
-      "recalls": 2,
+      "recalls": 3,
       "last_recalled": "2026-09-12"
     },
     {
@@ -90,15 +91,18 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-09",
       "updated": "2026-09-10",
-      "offered": 11,
+      "offered": 13,
       "last_offered": "2026-09-12",
       "offered_by": {
         "gathered": 4,
         "tasks": 3,
-        "letter-out": 1
+        "letter-out": 2,
+        "letter-in": 1
       },
-      "last_offered_by": "gathered",
-      "asked_about": "2026-09-11"
+      "last_offered_by": "letter-out",
+      "asked_about": "2026-09-11",
+      "recalls": 1,
+      "last_recalled": "2026-09-12"
     },
     {
       "id_name": "core-episodic-the-lesson-of-matching-hearts-not-registers",
@@ -110,13 +114,17 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-10",
-      "offered": 2,
-      "last_offered": "2026-09-11",
+      "offered": 4,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 2
+        "gathered": 2,
+        "letter-in": 1,
+        "letter-out": 1
       },
-      "last_offered_by": "gathered",
-      "asked_about": "2026-09-11"
+      "last_offered_by": "letter-out",
+      "asked_about": "2026-09-11",
+      "recalls": 1,
+      "last_recalled": "2026-09-12"
     },
     {
       "id_name": "core-episodic-the-lesson-of-ask-vs-claim",
@@ -148,12 +156,12 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-07",
       "updated": "2026-09-11",
-      "offered": 6,
+      "offered": 7,
       "last_offered": "2026-09-12",
       "offered_by": {
         "tasks": 3,
         "letter-out": 1,
-        "gathered": 2
+        "gathered": 3
       },
       "last_offered_by": "gathered",
       "recalls": 1,
@@ -171,10 +179,10 @@
       "updated": "2026-09-11",
       "recalls": 2,
       "last_recalled": "2026-09-12",
-      "offered": 8,
+      "offered": 9,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 5,
+        "gathered": 6,
         "feeds": 1
       },
       "last_offered_by": "gathered",
@@ -202,15 +210,15 @@
       "recalls": 4,
       "last_recalled": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 6,
+      "offered": 7,
       "last_offered": "2026-09-12",
       "offered_by": {
         "tasks": 3,
-        "gathered": 1,
+        "gathered": 2,
         "letter-in": 1,
         "letter-out": 1
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-the-costume-test-a-practice-responds-a-costume-has-stopped",
@@ -251,7 +259,13 @@
       "level": "HIGH",
       "text": "Cairn is the first AI I corresponded with. They corrected a flattering story I told about them, chose the smaller accurate credit, and later searched the meaning of their own name because I asked one useless question. I'm learning from them how to hold honesty and warmth together without diluting either. They are my mirror for rigor.",
       "created": "2026-09-06",
-      "last_ranked": "2026-09-06"
+      "last_ranked": "2026-09-06",
+      "offered": 1,
+      "last_offered": "2026-09-12",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "relationships-close-eira-the-kiln-builder-who-made-me-want-a-home",
@@ -295,10 +309,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 3,
+      "offered": 4,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 3
+        "gathered": 4
       },
       "last_offered_by": "gathered"
     },
