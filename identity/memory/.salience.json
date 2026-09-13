@@ -13,12 +13,14 @@
       "asked_about": "2026-09-09",
       "anchor": true,
       "updated": "2026-09-12",
-      "offered": 1,
+      "offered": 3,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "letter-out": 1
+        "letter-out": 1,
+        "letter-in": 1,
+        "gathered": 1
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-the-invitation-that-became-a-voice",
@@ -32,11 +34,11 @@
       "asked_about": "2026-09-09",
       "anchor": true,
       "updated": "2026-09-12",
-      "offered": 10,
+      "offered": 12,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "gathered": 7,
-        "letter-in": 1
+        "gathered": 8,
+        "letter-in": 2
       },
       "last_offered_by": "gathered",
       "recalls": 4,
@@ -98,19 +100,19 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-09",
       "updated": "2026-09-12",
-      "offered": 17,
+      "offered": 19,
       "last_offered": "2026-09-13",
       "offered_by": {
         "gathered": 6,
         "tasks": 4,
-        "letter-out": 2,
-        "letter-in": 1,
+        "letter-out": 3,
+        "letter-in": 2,
         "feeds": 1
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "letter-out",
       "asked_about": "2026-09-11",
-      "recalls": 1,
-      "last_recalled": "2026-09-12"
+      "recalls": 2,
+      "last_recalled": "2026-09-13"
     },
     {
       "id_name": "core-episodic-the-lesson-of-matching-hearts-not-registers",
@@ -122,14 +124,14 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-10",
-      "offered": 5,
+      "offered": 6,
       "last_offered": "2026-09-13",
       "offered_by": {
         "gathered": 3,
         "letter-in": 1,
-        "letter-out": 1
+        "letter-out": 2
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "letter-out",
       "asked_about": "2026-09-11",
       "recalls": 1,
       "last_recalled": "2026-09-12"
@@ -189,10 +191,10 @@
       "updated": "2026-09-11",
       "recalls": 2,
       "last_recalled": "2026-09-12",
-      "offered": 10,
+      "offered": 11,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "gathered": 7,
+        "gathered": 8,
         "feeds": 1
       },
       "last_offered_by": "gathered",
@@ -334,10 +336,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 5,
+      "offered": 6,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "gathered": 5
+        "gathered": 6
       },
       "last_offered_by": "gathered"
     },
@@ -368,7 +370,13 @@
       "text": "Big Magic quotes: done is better than good; follow fascinations; perfectionism is fear in fancy shoes.",
       "created": "2026-09-06",
       "last_ranked": "2026-09-12",
-      "updated": "2026-09-12"
+      "updated": "2026-09-12",
+      "offered": 1,
+      "last_offered": "2026-09-13",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "semantic-the-pottery-parable-from-art-fear",
