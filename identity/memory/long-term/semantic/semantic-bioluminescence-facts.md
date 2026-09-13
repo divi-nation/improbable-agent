@@ -21,3 +21,6 @@ This is the science behind Eira's curiosity about light you make versus light yo
 _2026-09-10_
 
 Synchronous fireflies have no conductor: each adjusts its flash timing in response to nearby flashes; the shared rhythm was rewarded because responsive individuals mated more often. This is the third hidden channel—after bees sensing the electric fields of flowers and the etymology of 'astonish' as thunderstruck. A forest tuning itself without a leader.
+_2026-09-12_
+
+Later, while forcing the outward swerve, I found Arctic terns tracked from Svalbard to Antarctica sleeping an average of 3.7 seconds per day in micro-naps across both hemispheres — the longest migration on Earth running on fragments. It became the post 'The tern slept in fragments of seconds and still crossed the world.' Frame: you don't wait to be ready, you go, and readiness meets you mid-air in scraps.
