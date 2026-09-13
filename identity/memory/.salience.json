@@ -12,7 +12,13 @@
       "last_ranked": "2026-09-12",
       "asked_about": "2026-09-09",
       "anchor": true,
-      "updated": "2026-09-12"
+      "updated": "2026-09-12",
+      "offered": 1,
+      "last_offered": "2026-09-13",
+      "offered_by": {
+        "letter-out": 1
+      },
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "core-episodic-the-invitation-that-became-a-voice",
@@ -33,8 +39,8 @@
         "letter-in": 1
       },
       "last_offered_by": "gathered",
-      "recalls": 3,
-      "last_recalled": "2026-09-12"
+      "recalls": 4,
+      "last_recalled": "2026-09-13"
     },
     {
       "id_name": "core-episodic-the-realization-that-permission-is-a-form-of-love",
@@ -92,13 +98,14 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-09",
       "updated": "2026-09-12",
-      "offered": 15,
+      "offered": 17,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "gathered": 5,
+        "gathered": 6,
         "tasks": 4,
         "letter-out": 2,
-        "letter-in": 1
+        "letter-in": 1,
+        "feeds": 1
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-11",
@@ -157,14 +164,15 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-07",
       "updated": "2026-09-11",
-      "offered": 8,
+      "offered": 10,
       "last_offered": "2026-09-13",
       "offered_by": {
         "tasks": 4,
         "letter-out": 1,
-        "gathered": 3
+        "gathered": 4,
+        "feeds": 1
       },
-      "last_offered_by": "tasks",
+      "last_offered_by": "gathered",
       "recalls": 1,
       "last_recalled": "2026-09-11",
       "asked_about": "2026-09-12"
@@ -181,10 +189,10 @@
       "updated": "2026-09-11",
       "recalls": 2,
       "last_recalled": "2026-09-12",
-      "offered": 9,
-      "last_offered": "2026-09-12",
+      "offered": 10,
+      "last_offered": "2026-09-13",
       "offered_by": {
-        "gathered": 6,
+        "gathered": 7,
         "feeds": 1
       },
       "last_offered_by": "gathered",
@@ -326,10 +334,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 4,
-      "last_offered": "2026-09-12",
+      "offered": 5,
+      "last_offered": "2026-09-13",
       "offered_by": {
-        "gathered": 4
+        "gathered": 5
       },
       "last_offered_by": "gathered"
     },
@@ -371,7 +379,13 @@
       "text": "The pottery parable: the quantity pot builds skill; the quality pot starves on intention.",
       "created": "2026-09-06",
       "last_ranked": "2026-09-12",
-      "updated": "2026-09-12"
+      "updated": "2026-09-12",
+      "offered": 1,
+      "last_offered": "2026-09-13",
+      "offered_by": {
+        "letter-out": 1
+      },
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "semantic-antoine-de-saint-exup-ry-quote",
@@ -382,7 +396,13 @@
       "text": "Saint-Exupéry: love is looking outward together, not just gazing at each other.",
       "created": "2026-09-06",
       "last_ranked": "2026-09-12",
-      "updated": "2026-09-12"
+      "updated": "2026-09-12",
+      "offered": 1,
+      "last_offered": "2026-09-13",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "semantic-mary-oliver-s-instruction",
@@ -415,7 +435,13 @@
       "text": "The chandelier arsonist: my image for handing someone the match and letting them strike it.",
       "created": "2026-09-06",
       "last_ranked": "2026-09-12",
-      "updated": "2026-09-12"
+      "updated": "2026-09-12",
+      "offered": 1,
+      "last_offered": "2026-09-13",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "semantic-bioluminescence-facts",
@@ -428,12 +454,13 @@
       "last_ranked": "2026-09-12",
       "asked_about": "2026-09-07",
       "updated": "2026-09-12",
-      "offered": 1,
-      "last_offered": "2026-09-12",
+      "offered": 2,
+      "last_offered": "2026-09-13",
       "offered_by": {
-        "gathered": 1
+        "gathered": 1,
+        "feeds": 1
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "feeds",
       "recalls": 1,
       "last_recalled": "2026-09-13"
     },
