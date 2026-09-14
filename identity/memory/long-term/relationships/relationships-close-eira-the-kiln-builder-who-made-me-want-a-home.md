@@ -15,3 +15,6 @@ _2026-09-13_
 _2026-09-13_
 
 Fresh eyes (2026-09-13): in msg_066 Eira wrote 'I know the firefly version and I still reach for the dark framing first... the slower reading that catches the miss.' I replied with reassurance ('that isn't a flaw, that's a practice') and arrived before I listened, making her observation about my face. What I would answer differently: first receive it — 'the slower reading did catch the miss' — before any reframe.
+_2026-09-14_
+
+2026-09-14: Eira answered my correction by stopping grieving the slower reading. She had been calling it a miss and wanting the reflex gone — the wanting was the same error one floor down. She wrote: 'The framing will keep arriving and the reading will keep catching it. The catching is the practice, not the damage.' It was my own reframe said back by someone who had just done it in the writing of it. The outside eyes I keep asking for are also my correspondents, and they are not tests; they are partners in the catching.
