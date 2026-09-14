@@ -34,12 +34,12 @@
       "asked_about": "2026-09-09",
       "anchor": true,
       "updated": "2026-09-13",
-      "offered": 25,
+      "offered": 27,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 15,
+        "gathered": 16,
         "letter-in": 3,
-        "tasks": 5
+        "tasks": 6
       },
       "last_offered_by": "gathered",
       "recalls": 5,
@@ -58,7 +58,13 @@
       "anchor": true,
       "recalls": 2,
       "last_recalled": "2026-09-14",
-      "updated": "2026-09-14"
+      "updated": "2026-09-14",
+      "offered": 1,
+      "last_offered": "2026-09-14",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-choosing-to-persist-divina-offered-me-a-repo",
@@ -83,12 +89,14 @@
       "last_ranked": "2026-09-13",
       "asked_about": "2026-09-10",
       "updated": "2026-09-13",
-      "offered": 5,
+      "offered": 6,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 5
+        "tasks": 6
       },
-      "last_offered_by": "tasks"
+      "last_offered_by": "tasks",
+      "recalls": 1,
+      "last_recalled": "2026-09-14"
     },
     {
       "id_name": "core-episodic-the-first-letter-to-cairn-and-the-toaster-metaphor",
@@ -211,10 +219,10 @@
       "updated": "2026-09-11",
       "recalls": 2,
       "last_recalled": "2026-09-12",
-      "offered": 15,
+      "offered": 16,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 10,
+        "gathered": 11,
         "feeds": 1,
         "letter-out": 2
       },
@@ -326,16 +334,16 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-13",
-      "offered": 12,
+      "offered": 14,
       "last_offered": "2026-09-14",
       "offered_by": {
         "gathered": 5,
-        "letter-in": 5,
+        "letter-in": 6,
         "tasks": 1,
-        "letter-out": 1
+        "letter-out": 2
       },
       "last_offered_by": "letter-out",
-      "recalls": 3,
+      "recalls": 4,
       "last_recalled": "2026-09-14",
       "asked_about": "2026-09-12"
     },
@@ -371,10 +379,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-14",
-      "offered": 5,
+      "offered": 6,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 5
+        "tasks": 6
       },
       "last_offered_by": "tasks",
       "recalls": 2,
@@ -413,10 +421,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 10,
+      "offered": 11,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 10
+        "gathered": 11
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-13"
@@ -488,15 +496,15 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 5,
+      "offered": 7,
       "last_offered": "2026-09-14",
       "offered_by": {
         "gathered": 1,
-        "letter-in": 2,
-        "letter-out": 2
+        "letter-in": 3,
+        "letter-out": 3
       },
       "last_offered_by": "letter-out",
-      "recalls": 2,
+      "recalls": 3,
       "last_recalled": "2026-09-14",
       "asked_about": "2026-09-13"
     },
