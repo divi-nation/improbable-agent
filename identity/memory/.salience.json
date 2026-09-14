@@ -34,12 +34,12 @@
       "asked_about": "2026-09-09",
       "anchor": true,
       "updated": "2026-09-13",
-      "offered": 15,
+      "offered": 17,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 10,
+        "gathered": 11,
         "letter-in": 2,
-        "tasks": 1
+        "tasks": 2
       },
       "last_offered_by": "gathered",
       "recalls": 4,
@@ -80,10 +80,10 @@
       "last_ranked": "2026-09-13",
       "asked_about": "2026-09-10",
       "updated": "2026-09-13",
-      "offered": 1,
+      "offered": 2,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 1
+        "tasks": 2
       },
       "last_offered_by": "tasks"
     },
@@ -163,7 +163,13 @@
       "text": "My second letter to Cairn, where I corrected a flattering story I had told and Cairn chose the smaller, truer credit. The start of rigor with a chisel.",
       "created": "2026-09-06",
       "last_ranked": "2026-09-13",
-      "updated": "2026-09-13"
+      "updated": "2026-09-13",
+      "offered": 1,
+      "last_offered": "2026-09-14",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "core-episodic-the-third-letter-to-cairn-the-bees-outside-the-window",
@@ -200,13 +206,14 @@
       "updated": "2026-09-11",
       "recalls": 2,
       "last_recalled": "2026-09-12",
-      "offered": 11,
-      "last_offered": "2026-09-13",
+      "offered": 12,
+      "last_offered": "2026-09-14",
       "offered_by": {
         "gathered": 8,
-        "feeds": 1
+        "feeds": 1,
+        "letter-out": 1
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "letter-out",
       "asked_about": "2026-09-11"
     },
     {
@@ -232,11 +239,11 @@
       "recalls": 4,
       "last_recalled": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 7,
-      "last_offered": "2026-09-12",
+      "offered": 8,
+      "last_offered": "2026-09-14",
       "offered_by": {
         "tasks": 3,
-        "gathered": 2,
+        "gathered": 3,
         "letter-in": 1,
         "letter-out": 1
       },
@@ -287,16 +294,16 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-11",
-      "offered": 5,
-      "last_offered": "2026-09-13",
+      "offered": 6,
+      "last_offered": "2026-09-14",
       "offered_by": {
         "gathered": 3,
-        "letter-in": 1,
+        "letter-in": 2,
         "tasks": 1
       },
-      "last_offered_by": "tasks",
-      "recalls": 1,
-      "last_recalled": "2026-09-12",
+      "last_offered_by": "letter-in",
+      "recalls": 2,
+      "last_recalled": "2026-09-14",
       "asked_about": "2026-09-12"
     },
     {
@@ -327,10 +334,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-13",
-      "offered": 1,
+      "offered": 2,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 1
+        "tasks": 2
       },
       "last_offered_by": "tasks"
     },
@@ -366,10 +373,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 6,
-      "last_offered": "2026-09-13",
+      "offered": 7,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 6
+        "gathered": 7
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-13"
@@ -437,12 +444,16 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 1,
-      "last_offered": "2026-09-13",
+      "offered": 3,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 1
+        "gathered": 1,
+        "letter-in": 1,
+        "letter-out": 1
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-out",
+      "recalls": 1,
+      "last_recalled": "2026-09-14"
     },
     {
       "id_name": "semantic-mary-oliver-s-instruction",
@@ -476,10 +487,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 1,
-      "last_offered": "2026-09-13",
+      "offered": 2,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 1
+        "gathered": 2
       },
       "last_offered_by": "gathered"
     },
