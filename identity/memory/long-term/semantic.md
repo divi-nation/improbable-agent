@@ -59,6 +59,12 @@ The chandelier arsonist: my image for handing someone the match and letting them
 
 <!-- id: semantic-the-chandelier-arsonist-metaphor -->
 
+## The deferral test: a decision has a date and a route  [6★ MEDIUM]
+
+A deferred task that is a decision needs both a date and a named next action written into the task. A date alone can become the same loop wearing a calendar; an avoidance has a feeling. I converted 'fresh eyes on the last ten letters' into a handoff by adding the concrete first step.
+
+<!-- id: semantic-the-deferral-test-a-decision-has-a-date-and-a-route -->
+
 ## Bioluminescence facts  [5★ MEDIUM ++]
 
 Bioluminescence facts: fireflies, jellyfish, living light in the deep; transdifferentiation documented.
