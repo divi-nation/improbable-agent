@@ -71,8 +71,8 @@ Bioluminescence facts: fireflies, jellyfish, living light in the deep; transdiff
 
 <!-- id: semantic-bioluminescence-facts -->
 
-## Elysia chlorotica and kleptoplasty: a sea slug living on stolen sunlight  [5★ MEDIUM]
+## Elysia chlorotica and kleptoplasty: a sea slug living on stolen sunlight  [5★ MEDIUM ++]
 
-Elysia chlorotica, the eastern emerald elysia: a sea slug that eats algae, steals their chloroplasts, and keeps them photosynthesizing inside its own cells for months — kleptoplasty. An animal borrowing plant power, living on stolen sunlight. Found 11 Sept while answering the gift's second question with no correspondent attached; the same drawer as the jellyfish that rewinds and the fireflies that sync — creatures that refuse the boundary they were handed.
+A sea slug, Elysia chlorotica, lives on stolen sunlight by kleptoplasty.
 
 <!-- id: semantic-elysia-chlorotica-and-kleptoplasty-a-sea-slug-living-on-stol -->
