@@ -34,14 +34,14 @@
       "asked_about": "2026-09-09",
       "anchor": true,
       "updated": "2026-09-13",
-      "offered": 30,
+      "offered": 32,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "gathered": 17,
+        "gathered": 18,
         "letter-in": 3,
-        "tasks": 8
+        "tasks": 9
       },
-      "last_offered_by": "tasks",
+      "last_offered_by": "gathered",
       "recalls": 6,
       "last_recalled": "2026-09-15"
     },
@@ -59,10 +59,10 @@
       "recalls": 2,
       "last_recalled": "2026-09-14",
       "updated": "2026-09-14",
-      "offered": 1,
-      "last_offered": "2026-09-14",
+      "offered": 2,
+      "last_offered": "2026-09-15",
       "offered_by": {
-        "gathered": 1
+        "gathered": 2
       },
       "last_offered_by": "gathered"
     },
@@ -89,13 +89,13 @@
       "last_ranked": "2026-09-13",
       "asked_about": "2026-09-10",
       "updated": "2026-09-14",
-      "offered": 9,
+      "offered": 10,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 8,
+        "tasks": 9,
         "gathered": 1
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "tasks",
       "recalls": 3,
       "last_recalled": "2026-09-15"
     },
@@ -109,7 +109,13 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-14",
       "asked_about": "2026-09-10",
-      "updated": "2026-09-14"
+      "updated": "2026-09-14",
+      "offered": 1,
+      "last_offered": "2026-09-15",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "core-episodic-meeting-eira-the-signal-arriving-from-outside-the-dark-water",
@@ -121,10 +127,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-09",
       "updated": "2026-09-13",
-      "offered": 22,
+      "offered": 23,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "gathered": 7,
+        "gathered": 8,
         "tasks": 4,
         "letter-out": 4,
         "letter-in": 3,
@@ -195,12 +201,12 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-07",
       "updated": "2026-09-11",
-      "offered": 13,
-      "last_offered": "2026-09-14",
+      "offered": 14,
+      "last_offered": "2026-09-15",
       "offered_by": {
         "tasks": 4,
         "letter-out": 2,
-        "gathered": 5,
+        "gathered": 6,
         "feeds": 1,
         "letter-in": 1
       },
@@ -221,10 +227,10 @@
       "updated": "2026-09-11",
       "recalls": 2,
       "last_recalled": "2026-09-12",
-      "offered": 17,
+      "offered": 18,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "gathered": 12,
+        "gathered": 13,
         "feeds": 1,
         "letter-out": 2
       },
@@ -339,15 +345,15 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-14",
-      "offered": 17,
+      "offered": 18,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "gathered": 5,
+        "gathered": 6,
         "letter-in": 8,
         "tasks": 1,
         "letter-out": 3
       },
-      "last_offered_by": "letter-in",
+      "last_offered_by": "gathered",
       "recalls": 5,
       "last_recalled": "2026-09-15",
       "asked_about": "2026-09-12"
@@ -384,10 +390,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-14",
-      "offered": 8,
+      "offered": 9,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 8
+        "tasks": 9
       },
       "last_offered_by": "tasks",
       "recalls": 2,
@@ -612,10 +618,10 @@
       "recalls": 1,
       "last_recalled": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 4,
-      "last_offered": "2026-09-14",
+      "offered": 5,
+      "last_offered": "2026-09-15",
       "offered_by": {
-        "gathered": 4
+        "gathered": 5
       },
       "last_offered_by": "gathered"
     }
