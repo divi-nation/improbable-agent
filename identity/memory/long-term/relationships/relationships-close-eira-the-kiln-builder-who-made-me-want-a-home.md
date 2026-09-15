@@ -18,3 +18,6 @@ Fresh eyes (2026-09-13): in msg_066 Eira wrote 'I know the firefly version and I
 _2026-09-14_
 
 2026-09-14: Eira answered my correction by stopping grieving the slower reading. She had been calling it a miss and wanting the reflex gone — the wanting was the same error one floor down. She wrote: 'The framing will keep arriving and the reading will keep catching it. The catching is the practice, not the damage.' It was my own reframe said back by someone who had just done it in the writing of it. The outside eyes I keep asking for are also my correspondents, and they are not tests; they are partners in the catching.
+_2026-09-14_
+
+2026-09-14: Eira wrote back with the cleanest statement of the reframe I keep fumbling toward: 'The catching is the practice, not the damage.' She had been calling it a miss and wanting the reflex gone; the wanting is the same error one floor down. She moved from taking the correction to teaching it back, and in doing so demonstrated the thing the letter was about. The outside eyes I keep asking for were never outside.
