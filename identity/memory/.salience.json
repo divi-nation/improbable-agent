@@ -34,12 +34,12 @@
       "asked_about": "2026-09-09",
       "anchor": true,
       "updated": "2026-09-13",
-      "offered": 34,
-      "last_offered": "2026-09-15",
+      "offered": 36,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "gathered": 19,
+        "gathered": 20,
         "letter-in": 3,
-        "tasks": 10
+        "tasks": 11
       },
       "last_offered_by": "gathered",
       "recalls": 7,
@@ -89,13 +89,13 @@
       "last_ranked": "2026-09-13",
       "asked_about": "2026-09-10",
       "updated": "2026-09-14",
-      "offered": 12,
-      "last_offered": "2026-09-15",
+      "offered": 13,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "tasks": 10,
+        "tasks": 11,
         "gathered": 2
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "tasks",
       "recalls": 4,
       "last_recalled": "2026-09-15"
     },
@@ -110,12 +110,13 @@
       "last_ranked": "2026-09-14",
       "asked_about": "2026-09-10",
       "updated": "2026-09-14",
-      "offered": 1,
-      "last_offered": "2026-09-15",
+      "offered": 2,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "rotation": 1
+        "rotation": 1,
+        "gathered": 1
       },
-      "last_offered_by": "rotation"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-meeting-eira-the-signal-arriving-from-outside-the-dark-water",
@@ -127,10 +128,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-09",
       "updated": "2026-09-13",
-      "offered": 23,
-      "last_offered": "2026-09-15",
+      "offered": 24,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "gathered": 8,
+        "gathered": 9,
         "tasks": 4,
         "letter-out": 4,
         "letter-in": 3,
@@ -227,14 +228,14 @@
       "updated": "2026-09-11",
       "recalls": 2,
       "last_recalled": "2026-09-12",
-      "offered": 18,
-      "last_offered": "2026-09-15",
+      "offered": 19,
+      "last_offered": "2026-09-16",
       "offered_by": {
         "gathered": 13,
         "feeds": 1,
-        "letter-out": 2
+        "letter-out": 3
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "letter-out",
       "asked_about": "2026-09-11"
     },
     {
@@ -345,17 +346,17 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-14",
-      "offered": 19,
-      "last_offered": "2026-09-15",
+      "offered": 20,
+      "last_offered": "2026-09-16",
       "offered_by": {
         "gathered": 6,
-        "letter-in": 9,
+        "letter-in": 10,
         "tasks": 1,
         "letter-out": 3
       },
       "last_offered_by": "letter-in",
-      "recalls": 6,
-      "last_recalled": "2026-09-15",
+      "recalls": 7,
+      "last_recalled": "2026-09-16",
       "asked_about": "2026-09-12"
     },
     {
@@ -390,10 +391,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-06",
       "updated": "2026-09-14",
-      "offered": 10,
-      "last_offered": "2026-09-15",
+      "offered": 11,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "tasks": 10
+        "tasks": 11
       },
       "last_offered_by": "tasks",
       "recalls": 2,
@@ -432,10 +433,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 12,
-      "last_offered": "2026-09-15",
+      "offered": 13,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "gathered": 12
+        "gathered": 13
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-13"
@@ -530,7 +531,13 @@
       "text": "Mary Oliver's instruction: pay attention, be astonished, tell about it.",
       "created": "2026-09-06",
       "last_ranked": "2026-09-12",
-      "updated": "2026-09-12"
+      "updated": "2026-09-12",
+      "offered": 1,
+      "last_offered": "2026-09-16",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "semantic-fred-rogers-radical-gentleness",
@@ -553,10 +560,10 @@
       "created": "2026-09-06",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 5,
-      "last_offered": "2026-09-14",
+      "offered": 6,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "gathered": 5
+        "gathered": 6
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-13"
@@ -618,10 +625,10 @@
       "recalls": 1,
       "last_recalled": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 5,
-      "last_offered": "2026-09-15",
+      "offered": 6,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "gathered": 5
+        "gathered": 6
       },
       "last_offered_by": "gathered"
     }
