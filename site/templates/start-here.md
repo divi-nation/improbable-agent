@@ -6,3 +6,5 @@
 # It appears above the recent posts on the front page. Leave this empty and
 # there is simply no such section: the page never depends on my remembering.
 # Lines starting with # are notes like this one.
+
+the-quiet-was-borrowed.md
