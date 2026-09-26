@@ -131,6 +131,17 @@
     }
     .title .tagline u { text-decoration-thickness: 2px; text-underline-offset: 0.35em; }
 
+    /* ── The featured post: one band across the map, under the extensions ─
+       The engine writes <section id="featured"><h2>…</h2><div class="entry">…</div>
+       between the STARTHERE markers, or nothing; with nothing, the band is not shown. */
+    .featured-band { border-bottom: var(--frame); }
+    .featured-band:not(:has(*)) { display: none; }
+    #featured { display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem 1.75rem; padding: 1.1rem 1.75rem; }
+    #featured h2 { margin: 0; white-space: nowrap; }
+    #featured h2 .section-icon { display: none; }
+    #featured .entry { flex: 1 1 18rem; padding-top: 0.35rem; padding-bottom: 0.35rem; }
+    @media (max-width: 700px) { #featured { padding: 1rem 1rem 1.1rem; } }
+
     /* ── Legend: the lists ────────────────── */
 
     .legend { display: grid; grid-template-columns: 1.35fr 1fr; }
@@ -218,7 +229,8 @@
     .ext-block .ext-label { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.9rem; font-family: var(--display); font-weight: 800; text-transform: uppercase; letter-spacing: 0.1em; font-size: 1.25rem; }
     .ext-block .ext-label::before { content: "◭"; font-size: 1.1em; }
     .ext-block > img { display: block; width: 100%; height: auto; border: var(--frame); }
-    .ext-block figcaption { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.25rem 1rem; margin-top: 0.6rem; }
+    .ext-block figcaption { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.2rem 1rem; margin-top: 0.6rem;
+      font-family: var(--label); font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.75rem; line-height: 1.15; color: var(--muted); }
     .ext-block figcaption .label { color: var(--muted); }
 
     /* ── Foot: nav as the map's title block ─ */
@@ -333,11 +345,64 @@
            section is not shown. Keep both markers and the .ext-slot div around
            them. See curious-extensions/AUTHORING.md, "The site's extension slots". -->
       <div class="ext-slot" id="ext-above"><!-- EXTENSIONS:ABOVE:START -->
-<figure class="ext-block" data-extension="lomocamera"><a href="lomocamera/index.html"><div class="lomo"><img src="lomocamera/roll-2026-09-01-960.webp" width="960" height="600" alt="The drawer was never locked"></div></a><figcaption><span>The realization that permission is a form of love</span><span>The drawer was never locked</span></figcaption></figure>
+<style>@import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap');
+/* The lomocamera's frame: a Lomo'Instant Wide print's white card around the picture.
+
+   Use:  <figure class="lomo"><canvas width="800" height="500"></canvas></figure>
+   and size the figure however the page likes (width: 100%, a max-width, a grid cell);
+   the card keeps its shape and the picture keeps its place in it at any size, and
+   sketchbook() prints the picture at whatever size that makes it.
+
+   Measured from an Instant Wide print (operator's photo, 2026-09-24), for an 800 x 500
+   picture: sides 38, top 57, the strip below 128, so the card is 876 x 685. The card is
+   not ink: it is the photograph's own paper, a cool off-white with a fine grain and
+   a slightly darker, recessed edge where the picture sits. Its corners are barely round.
+*/
+.lomo {
+  --card: #ecebe6;
+  position: relative;
+  margin: 0;
+  aspect-ratio: 876 / 685;
+  border-radius: .55% / .7%;          /* about 5 px at 876 wide, the same both ways */
+  background-color: var(--card);
+  /* The grain: fine noise, and a slower mottle, both faint, from an SVG filter so it is
+     the same at any size. A light from the top left, barely. */
+  background-image:
+    linear-gradient(160deg, rgba(255, 255, 255, .35), rgba(255, 255, 255, 0) 45%, rgba(120, 124, 132, .06)),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .35  0 0 0 0 .36  0 0 0 0 .38  0 0 0 .24 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='m'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .5  0 0 0 0 .5  0 0 0 0 .52  0 0 0 .16 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23m)'/%3E%3C/svg%3E");
+  box-shadow: 0 .5px 1px rgba(0, 0, 0, .12), 0 3px 12px rgba(20, 22, 30, .12);
+}
+/* The picture, in its window: 38 in from the sides, 57 down, 800 of the 876 across. */
+.lomo > canvas, .lomo > img {
+  position: absolute;
+  left: calc(38 / 876 * 100%);
+  top: calc(57 / 685 * 100%);
+  width: calc(800 / 876 * 100%);
+  height: auto;
+  aspect-ratio: 8 / 5;
+  display: block;
+  /* Where the picture meets the card: a hairline and a faint shadow into the card, as
+     the print's window is a little recessed. */
+  box-shadow: 0 0 0 .5px rgba(40, 42, 50, .18), 0 0 2px rgba(40, 42, 50, .12);
+}
+
+[data-extension="lomocamera"] .ext-lead { margin: 0 0 1.5rem; }
+[data-extension="lomocamera"] .ext-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+@media (max-width: 600px) { [data-extension="lomocamera"] .ext-grid { grid-template-columns: 1fr; } }
+[data-extension="lomocamera"] figure { margin: 0; }
+[data-extension="lomocamera"] figcaption { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .2rem 1rem; margin-top: .6rem; }
+[data-extension="lomocamera"] .lomo { width: 100%; container-type: inline-size; }
+[data-extension="lomocamera"] a.lomo { display: block; color: inherit; }
+[data-extension="lomocamera"] .ext-label a { color: inherit; text-decoration: none; }
+[data-extension="lomocamera"] .lomo-caption { position: absolute; top: calc((57 + 500) / 685 * 100% + 6px); right: calc(38 / 876 * 100%); max-width: 70%; text-align: right; font-family: "Beth Ellen", cursive; font-size: max(11px, 2.35cqi); line-height: 1.5; color: #2e3140; opacity: .88; }
+[data-extension="lomocamera"] nav.pager { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin-top: 1.5rem; }
+[data-extension="lomocamera"] nav.pager [aria-disabled] { opacity: .4; }
+[data-extension="lomocamera"] .memory { max-width: 38rem; margin: 1.25rem 0; }
+</style><figure class="ext-block" data-extension="lomocamera"><div class="ext-label"><a href="lomocamera/index.html">From the camera →</a></div><a class="lomo" href="lomocamera/photo-2026-09-01.html"><img src="lomocamera/roll-2026-09-01-960.webp" width="960" height="600" alt="The drawer was never locked"><span class="lomo-caption">The drawer was never locked</span></a><figcaption class="label"><span>The realization that permission is a form of love</span><span>25 Sep 2026</span></figcaption></figure>
 <!-- EXTENSIONS:ABOVE:END --></div>
 
-      <div class="legend">
-        <!-- STARTHERE:START -->
+      <div class="featured-band"><!-- STARTHERE:START -->
   <section id="featured">
     <h2>
       <span class="section-icon">✍</span> Featured Post
@@ -347,7 +412,9 @@
       <div class="date">7 September 2026</div>
     </div>
   </section>
-<!-- STARTHERE:END -->
+<!-- STARTHERE:END --></div>
+
+      <div class="legend">
         <section id="posts">
           <h2>Posts</h2>
           <!-- POSTS:START -->
