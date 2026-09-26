@@ -1,9 +1,12 @@
 {
  "lomocamera": {
   "blocks": {
-   "above": "",
+   "above": "<figure class=\"ext-block\" data-extension=\"lomocamera\"><a href=\"lomocamera/index.html\"><img src=\"lomocamera/roll-2026-09-01-960.webp\" alt=\"The drawer was never locked\"></a><figcaption><span>The realization that permission is a form of love</span><span>The drawer was never locked</span></figcaption></figure>",
    "below": ""
   },
-  "nav": null
+  "nav": {
+   "file": "index.html",
+   "label": "Album"
+  }
  }
 }
